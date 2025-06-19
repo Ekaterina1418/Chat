@@ -76,7 +76,7 @@ const sendMessage = () => {
     p{
         display: inline-block;
         overflow: auto;
-        background:#fe9a8b;
+        background:#f29688;
         padding: 10px;
         border-radius:16px;
         margin: 0;
