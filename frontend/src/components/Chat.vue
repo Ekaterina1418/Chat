@@ -89,7 +89,7 @@ input {
     margin-right: 10px; 
     border-radius:16px;
     background: #f6f6f6;
-    color: black;
+    color: rgb(24, 22, 22);
     font-size: medium;
     border: none;
 }
