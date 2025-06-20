@@ -86,7 +86,7 @@ input {
     width: 600px; 
     margin-top: 10px; 
     padding: 18px; 
-    margin-right: 10px; 
+    margin-right: 12px; 
     border-radius:16px;
     background: #f6f6f6;
     color: black;
