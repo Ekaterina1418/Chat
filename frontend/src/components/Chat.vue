@@ -86,8 +86,8 @@ input {
     width: 600px; 
     margin-top: 10px; 
     padding: 18px; 
-    margin-right: 12px; 
-    border-radius:16px;
+    margin-right: 10px; 
+    border-radius:15px;
     background: #f6f6f6;
     color: rgb(24, 22, 22);
     font-size: medium;
