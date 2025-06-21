@@ -87,7 +87,7 @@ input {
     margin-top: 10px; 
     padding: 18px; 
     margin-right: 10px; 
-    border-radius:17px;
+    border-radius:15px;
     background: #f6f6f6;
     color: black;
     font-size: medium;
